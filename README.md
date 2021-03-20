@@ -1,8 +1,8 @@
 ### Sup,
-### I'm Jon Cucci, a self-motivated learner fueled by a passion for technology.
-### I'm currently looking for opportunities in Data Analysis, Machine Learning or Embedded Systems.
+I'm Jon Cucci, a self-motivated learner fueled by a passion for technology.
+I'm currently looking for opportunities in Data Analysis, Machine Learning or Embedded Systems.
 ### 
-### Welcome to my Github, enjoy your stay 
+Welcome to my Github, enjoy your stay 
 
 
 <!--
