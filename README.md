@@ -5,7 +5,7 @@ I enjoy learning about the world, why things work, and understanding something t
 ### 
 Welcome to my Github, enjoy your stay 
 
-# Current Books I'm reading
+### Current Books I'm reading
 - [A Brief History of Artificial Intelligence](https://us.macmillan.com/books/9781250770738) by Michael Wooldridge
 - [Real World Python](https://nostarch.com/real-world-python) by Lee Vaughan
 - [Hands-on Machine Learning with Scitkit-learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron
