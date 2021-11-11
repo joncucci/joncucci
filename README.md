@@ -1,5 +1,5 @@
 ### Sup,
-I'm Jon Cucci, a self-motivated learner fueled by a passion for technology.
+a self-motivated learner fueled by a passion for technology.
 I'm currently looking for opportunities in Data Analysis, Machine Learning or Embedded Systems.
 I enjoy learning about the world, why things work, and understanding something to the finest detail.
 ### 
