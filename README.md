@@ -8,6 +8,9 @@ Welcome to my Github, enjoy your stay
 ### Current Books I'm reading
 - [A Brief History of Artificial Intelligence](https://us.macmillan.com/books/9781250770738) by Michael Wooldridge
 - [Real World Python](https://nostarch.com/real-world-python) by Lee Vaughan
+- [Deep Learning Illustrated]('https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694') by Jon Krohn
+
+### Finished Readings
 - [Hands-on Machine Learning with Scitkit-learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron
 
 <!--
